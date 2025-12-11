@@ -1,0 +1,3 @@
+This project looks at the basketball game Lightning (also called Knockout). The R code here can be used to calculate the probability that each player wins the game given their initial starting position, long shot shooting percentage and short shot shooting percentage. It is assumed all players shoot the same percentage on each long shot and short shot and that players alternate shots. This code generates graphs and a grid search used in the paper available at https://arxiv.org/abs/2505.16842
+
+It is my hope that others use this for fun or to explore the game Lightning or even to explore mathematical research in general.
